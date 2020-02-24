@@ -1,0 +1,6 @@
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectBrief\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe.config
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectBrief\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.exe
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectBrief\PrivateSchool\PrivateSchool\bin\Debug\PrivateSchool.pdb
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectBrief\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.csprojAssemblyReference.cache
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectBrief\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.exe
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectBrief\PrivateSchool\PrivateSchool\obj\Debug\PrivateSchool.pdb
